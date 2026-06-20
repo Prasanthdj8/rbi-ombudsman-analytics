@@ -1,0 +1,18 @@
+fiscal_year,dimension_type,dimension_value,share_pct
+2022-23,Entity,Banks,83.78
+2023-24,Entity,Banks,82.28
+2023-24,Entity,NBFCs,14.53
+2024-25,Entity,Banks,81.53
+2024-25,Entity,NBFCs,14.80
+2022-23,Centre,Metropolitan,45.77
+2022-23,Centre,Urban,24.00
+2023-24,Centre,Metropolitan,46.51
+2023-24,Centre,Urban,25.13
+2023-24,Centre,Semi-Urban,18.09
+2023-24,Centre,Rural,10.27
+2024-25,Centre,Metropolitan,45.86
+2024-25,Centre,Urban,25.64
+2024-25,Centre,Semi-Urban,18.46
+2024-25,Centre,Rural,10.04
+2024-25,Bank Type,Private Sector Banks,37.53
+2024-25,Bank Type,Public Sector Banks,34.80

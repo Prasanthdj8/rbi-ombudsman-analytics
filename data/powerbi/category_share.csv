@@ -1,0 +1,14 @@
+fiscal_year,category,complaints,share_pct,is_calculated
+2022-23,Loans and Advances,58990,25.14,TRUE
+2022-23,Mobile / Electronic Banking,42101,17.94,TRUE
+2022-23,Credit Card,24612,10.49,TRUE
+2023-24,Loans and Advances,85281,29.01,FALSE
+2023-24,Mobile / Electronic Banking,57242,19.48,FALSE
+2023-24,Opening/Operation of Deposit accounts,46358,15.77,FALSE
+2023-24,Credit Card,42329,14.40,FALSE
+2023-24,ATM/CDM/Debit card,25231,8.58,FALSE
+2024-25,Loans and Advances,86670,29.25,FALSE
+2024-25,Credit Card,50811,17.15,FALSE
+2024-25,Mobile / Electronic Banking,49951,16.86,FALSE
+2024-25,Opening/Operation of Deposit accounts,49913,16.84,FALSE
+2024-25,ATM/CDM/Debit card,18082,6.10,FALSE

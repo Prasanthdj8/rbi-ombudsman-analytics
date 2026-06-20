@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "title": "RBI Banking Ombudsman Complaint Trends",
+    "source": "RBI Annual Reports of Ombudsman Scheme, FY 2022-23 to FY 2024-25 (verified directly against primary source PDFs)",
+    "lastUpdated": "2026-06",
+    "note": "All figures are real, published RBI statistics, personally verified against the source PDF tables. See SOURCES.md for full citations."
+  },
+  "totals": [
+    { "fiscalYear": "2022-23", "totalComplaints": 703544, "yoyGrowthPct": 68.24, "disposalRatePct": 97.99 },
+    { "fiscalYear": "2023-24", "totalComplaints": 934355, "yoyGrowthPct": 32.81, "disposalRatePct": 95.10 },
+    { "fiscalYear": "2024-25", "totalComplaints": 1334244, "yoyGrowthPct": 13.55, "disposalRatePct": 93.07 }
+  ],
+  "categoryShare": [
+    { "fiscalYear": "2022-23", "category": "Loans and Advances", "complaints": 58990, "sharePct": 25.14, "isCalculated": true },
+    { "fiscalYear": "2022-23", "category": "Mobile / Electronic Banking", "complaints": 42101, "sharePct": 17.94, "isCalculated": true },
+    { "fiscalYear": "2022-23", "category": "Credit Card", "complaints": 24612, "sharePct": 10.49, "isCalculated": true },
+    { "fiscalYear": "2023-24", "category": "Loans and Advances", "complaints": 85281, "sharePct": 29.01 },
+    { "fiscalYear": "2023-24", "category": "Mobile / Electronic Banking", "complaints": 57242, "sharePct": 19.48 },
+    { "fiscalYear": "2023-24", "category": "Opening/Operation of Deposit accounts", "complaints": 46358, "sharePct": 15.77 },
+    { "fiscalYear": "2023-24", "category": "Credit Card", "complaints": 42329, "sharePct": 14.40 },
+    { "fiscalYear": "2023-24", "category": "ATM/CDM/Debit card", "complaints": 25231, "sharePct": 8.58 },
+    { "fiscalYear": "2024-25", "category": "Loans and Advances", "complaints": 86670, "sharePct": 29.25 },
+    { "fiscalYear": "2024-25", "category": "Credit Card", "complaints": 50811, "sharePct": 17.15 },
+    { "fiscalYear": "2024-25", "category": "Mobile / Electronic Banking", "complaints": 49951, "sharePct": 16.86 },
+    { "fiscalYear": "2024-25", "category": "Opening/Operation of Deposit accounts", "complaints": 49913, "sharePct": 16.84 },
+    { "fiscalYear": "2024-25", "category": "ATM/CDM/Debit card", "complaints": 18082, "sharePct": 6.10 }
+  ],
+  "entitySplit": [
+    { "fiscalYear": "2022-23", "entity": "Banks", "sharePct": 83.78 },
+    { "fiscalYear": "2023-24", "entity": "Banks", "sharePct": 82.28 },
+    { "fiscalYear": "2023-24", "entity": "NBFCs", "sharePct": 14.53 },
+    { "fiscalYear": "2024-25", "entity": "Banks", "sharePct": 81.53 },
+    { "fiscalYear": "2024-25", "entity": "NBFCs", "sharePct": 14.80 }
+  ],
+  "centreSplit": [
+    { "fiscalYear": "2022-23", "centre": "Metropolitan", "sharePct": 45.77 },
+    { "fiscalYear": "2022-23", "centre": "Urban", "sharePct": 24.00 },
+    { "fiscalYear": "2023-24", "centre": "Metropolitan", "sharePct": 46.51 },
+    { "fiscalYear": "2023-24", "centre": "Urban", "sharePct": 25.13 },
+    { "fiscalYear": "2023-24", "centre": "Semi-Urban", "sharePct": 18.09 },
+    { "fiscalYear": "2023-24", "centre": "Rural", "sharePct": 10.27 },
+    { "fiscalYear": "2024-25", "centre": "Metropolitan", "sharePct": 45.86 },
+    { "fiscalYear": "2024-25", "centre": "Urban", "sharePct": 25.64 },
+    { "fiscalYear": "2024-25", "centre": "Semi-Urban", "sharePct": 18.46 },
+    { "fiscalYear": "2024-25", "centre": "Rural", "sharePct": 10.04 }
+  ],
+  "bankTypeSplit": [
+    { "fiscalYear": "2024-25", "bankType": "Private Sector Banks", "sharePct": 37.53 },
+    { "fiscalYear": "2024-25", "bankType": "Public Sector Banks", "sharePct": 34.80 }
+  ]
+}
