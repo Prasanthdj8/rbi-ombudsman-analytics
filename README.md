@@ -26,9 +26,7 @@ possible:
    text mapped to the real category structure. This is stated clearly here
    and in `classifier/README.md`, not buried in fine print.
 
-Both pieces are also rebuilt as a Power BI report (`data/powerbi/`), since
-that's the specific tool named in the job listing, alongside the web version
-for easy sharing as a link.
+Both pieces are documented openly, with real data cited against primary sources and the synthetic classifier data clearly labeled as such.
 
 ## Why I built this
 
@@ -48,11 +46,10 @@ rbi-ombudsman-analytics/
 ├── data/
 │   ├── SOURCES.md              # citations and verification notes for every real figure used
 │   ├── ombudsman_trends.json   # real RBI data, structured for the web dashboard
-│   └── powerbi/
+│   └── data-exports/
 │       ├── totals.csv
 │       ├── category_share.csv
-│       ├── splits.csv
-│       └── BUILD_GUIDE.md      # step by step Power BI assembly instructions
+│       └── splits.csv
 ├── docs/
 │   └── index.html              # self contained web dashboard, served via GitHub Pages
 ├── classifier/
@@ -80,8 +77,6 @@ pip install scikit-learn pandas joblib
 python generate_synthetic_complaints.py
 python classify_complaints.py
 ```
-
-**Power BI:** see `data/powerbi/BUILD_GUIDE.md`.
 
 ## What's real and what isn't, summarized
 
